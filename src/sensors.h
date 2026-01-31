@@ -3,4 +3,6 @@
 
 void sensors_init(void);
 
+void sensors_update(void);
+
 #endif  //SENSORS_C__

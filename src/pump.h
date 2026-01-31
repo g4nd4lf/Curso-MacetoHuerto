@@ -1,7 +1,6 @@
 #ifndef PUMP_H__
 #define PUMP_H__
 
-void system_init(void);
-void system_def(void);
+void pump_actuate(void);
 
 #endif  //PUMP_H__

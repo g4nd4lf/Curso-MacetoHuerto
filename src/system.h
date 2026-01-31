@@ -2,6 +2,6 @@
 #define SYSTEN_H__
 
 void system_init(void);
-void system_def(void);
+void system_sleep(void);
 
 #endif  //SYSTEM_H__
